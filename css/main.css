@@ -18,7 +18,8 @@ html {
 
 .cards li {
   display: inline-block;
-  margin: 0.5em 1em;
+
+  margin: .5em 1em;
   max-width: 20em;
   padding: 1em;
   background-color: #fff;
@@ -27,7 +28,7 @@ html {
   text-align: left;
 }
 
-.cards img{
+.cards img {
   display: block;
   margin: 0 auto 1rem;
 }
@@ -55,7 +56,7 @@ html {
   min-width: 9rem;
 }
 
-.cards div{
+.cards div {
   text-align: center;
 }
 
@@ -68,7 +69,7 @@ html {
   text-decoration: none;
 }
 
-.cards a:hover {
+.cards div a:hover {
   background-color: #333;
   color: #fff;
 }
